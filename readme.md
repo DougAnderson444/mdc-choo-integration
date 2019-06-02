@@ -1,4 +1,6 @@
 # Use Choo.js to separate out the Material Components
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDougAnderson444%2Fmdc-choo-integration.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FDougAnderson444%2Fmdc-choo-integration?ref=badge_shield)
+
 
 Put the components into folders, then `${addComponent}` into the templates
 
@@ -61,3 +63,7 @@ Congrats! Now you have own Material theme that you can use in your [Material Com
 
 ## Interested in learning more?
 Check out the [Material Components for the Web](https://github.com/material-components/material-components-web) documentation to add more components and styling. Read the full [Getting Started guide](https://github.com/material-components/material-components-web/blob/master/docs/getting-started.md) and learn about [Material Theming](https://material.io/design/material-theming).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDougAnderson444%2Fmdc-choo-integration.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FDougAnderson444%2Fmdc-choo-integration?ref=badge_large)
